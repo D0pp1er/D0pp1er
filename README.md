@@ -35,7 +35,7 @@ I'm a final-year Computer Science and Engineering student at Bangladesh Universi
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
 
-
+[View my CV](Md_Shariful_Islam_Khan_CV.pdf)
 
 ## 📊 GitHub Stats & Metrics
 
